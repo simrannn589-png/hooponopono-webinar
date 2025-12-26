@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>FREE Emotional Healing Webinar</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body{font-family:Arial;background:#fff;margin:0;padding:0;}
+.section{padding:40px;max-width:900px;margin:auto;}
+h1{color:#222;}
+.cta{background:#6a5acd;color:white;padding:12px 25px;border:none;font-size:18px;border-radius:5px;}
+.box{background:#f6f6ff;padding:25px;border-radius:10px;}
+</style>
+</head>
+
+<body>
+<div class="section">
+<h1>FREE LIVE 60-Min Emotional Healing Experience</h1>
+<h3>Join My Free Ho’oponopono Healing Session</h3>
+<p><b>Date:</b> 2 January 2026<br>
+<b>Time:</b> 12 PM | Live on Zoom</p>
+
+<div class="box">
+<p>I am Simran, a Certified Ho’oponopono Healer.<br><br>
+This will be a LIVE 60 Minutes Zoom Session where we will:
+<br><br>
+• Learn the Magical Ancient Healing Technique<br>
+• Instantly release negative emotions<br>
+• Reconnect with yourself deeply<br>
+• Experience self-love like never before<br><br>
+
+I promise… You may experience tears of joy, emotional release,
+and deep peace in this Magical Healing Session.
+</p>
+</div>
+
+<br>
+
+<a href="form.html">
+<button class="cta">Register Free Now</button>
+</a>
+</div>
+</body>
+</html>
